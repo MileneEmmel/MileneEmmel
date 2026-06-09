@@ -15,7 +15,7 @@
 * **Idade:** 21 anos  
 * Fui monitora de Cálculo na UNIVALI  
 * Estagiária de TI (Sistemas) na PortoNave  
-* **Curso:** Engenharia da Computação — 6º período (UNIVALI)
+* **Curso:** Engenharia da Computação — 7º período (UNIVALI)
 
 ## Tech / Skills
 
@@ -58,8 +58,7 @@
       <!-- Suba ./assets/pc-pink-circle.png ao repositório antes de usar -->
       <img src="./assets/image.png" alt="ilustração de um computador rosa" width="220" />
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=MileneEmmel&show_icons=true&title_color=F48FB1&text_color=F8C8D8&icon_color=F48FB1&bg_color=fff3f7"
-           alt="GitHub stats" width="300" />
+      
     </td>
   </tr>
 </table>
